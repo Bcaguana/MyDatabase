@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+        //new comment
     }
 
     private void showCustomerOnListView(DatabaseHelper databaseHelper) {
